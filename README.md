@@ -1,6 +1,6 @@
 # Sample Images
 
-Following are the respective sample images for each graph.
+Following are the respective sample images for each graph. Feel free to modify.
 
 ## Graph Number 01:
 
