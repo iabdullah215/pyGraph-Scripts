@@ -1,2 +1,6 @@
-# pyGraph-Scripts
-Python scripts that I mostly use to create charts for my research papers.
+# Sample Images
+
+Following are the respective sample images for each graph.
+
+## Graph Number 01:
+
