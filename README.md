@@ -17,3 +17,7 @@ Following are the respective sample images for each graph. Feel free to modify.
 ## Graph Number 04:
 
 ![Graph01](images/Graph04.jpg)
+
+## Graph Number 05:
+
+![Graph01](images/Graph05.png)
