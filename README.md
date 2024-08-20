@@ -29,3 +29,7 @@ Following are the respective sample images for each graph. Feel free to modify.
 ## Graph Number 07:
 
 ![Graph01](images/graph.jpg)
+
+## Graph Number 07:
+
+![Graph01](images/graph3.png)
