@@ -36,4 +36,4 @@ Following are the respective sample images for each graph. Feel free to modify.
 
 ## Graph Number 09:
 
-![Graph01](images/Figure-1.png)
+![Graph01](images/Figure_1.png)
