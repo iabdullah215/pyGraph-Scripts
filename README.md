@@ -30,6 +30,10 @@ Following are the respective sample images for each graph. Feel free to modify.
 
 ![Graph01](images/graph.jpg)
 
-## Graph Number 07:
+## Graph Number 08:
 
 ![Graph01](images/graph3.png)
+
+## Graph Number 09:
+
+![Graph01](images/Figure-1.png)
